@@ -11,12 +11,12 @@ export const ProjectCard = ({ title, description, imgUrl, githubUrl, liveDemoUrl
           <span>{description}</span>
           <div className="project-buttons mt-3">
             {githubUrl && (
-              <a href={githubUrl} target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+              <a href={githubUrl} target="_blank" rel="noopener noreferrer" className="btn btn-1">
                 <FaGithub /> GitHub
               </a>
             )}
             {liveDemoUrl && (
-              <a href={liveDemoUrl} target="_blank" rel="noopener noreferrer" className="btn btn-success">
+              <a href={liveDemoUrl} target="_blank" rel="noopener noreferrer" className="btn btn-2">
                 <FaExternalLinkAlt /> Live Demo
               </a>
             )}

@@ -530,22 +530,22 @@ body.dark-mode .header-img {
   margin-right: 5px; /* Space between icon and text */
 }
 
-.project-buttons .btn-primary {
-  background-color: #fff; /* Bootstrap primary color */
-  color: rgb(57, 55, 55); /* Text color */
+.project-buttons .btn-1 {
+  background-color: #fff; 
+  color: rgb(57, 55, 55); 
 }
 
-.project-buttons .btn-primary:hover {
-  background-color: #0056b3; /* Darker shade on hover */
+.project-buttons .btn-1:hover {
+  background-color: #0e6bce; 
 }
 
-.project-buttons .btn-success {
-  background-color: #fff; /* Bootstrap primary color */
-  color: rgb(57, 55, 55); /* Text color */
+.project-buttons .btn-2 {
+  background-color: #fff; 
+  color: rgb(57, 55, 55); 
 }
 
-.project-buttons .btn-success:hover {
-  background-color: #0056b3; /* Darker shade on hover */
+.project-buttons .btn-2:hover {
+  background-color: #0e6bce; 
 }
 
 /************ Contacts Css ************/
